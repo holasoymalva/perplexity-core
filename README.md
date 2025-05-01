@@ -1,4 +1,4 @@
-# Perplexity Core
+# Perplexity Core Framework
 
 <p align="center">
   <img src="https://cdn.prod.website-files.com/5da60b8bfc98fdf11111b791/667d8a67dcf144284eeb44a5_What%20is%20Perplexity%20AI%20and%20How%20to%20Use%20It.webp" alt="Perplexity Core Logo" width="400" height="200">
